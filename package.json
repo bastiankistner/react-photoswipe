@@ -1,0 +1,26 @@
+{
+  "name": "react-photoswipe",
+  "version": "0.8.0",
+  "description": "PhotoSwipe decorator (ES7) for React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/passionkind/react-photoswipe.git"
+  },
+  "keywords": [
+    "photoswipe",
+    "react",
+    "gallery",
+    "decorator",
+    "mixin"
+  ],
+  "author": "Bastian Kistner, @passionkind",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/passionkind/react-photoswipe/issues"
+  },
+  "homepage": "https://github.com/passionkind/react-photoswipe"
+}
